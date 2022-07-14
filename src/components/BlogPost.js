@@ -11,6 +11,7 @@ function BlogPost() {
       <Comment commentText="Truth is singular. Its ‘versions’ are mistruths. - Sonmi-451" />
     </div>
   );
+
 }
 
 export default BlogPost;
